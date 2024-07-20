@@ -1,5 +1,5 @@
 <template>
   <main>
-    <ContentDoc />
+    <Page404 />
   </main>
 </template>
